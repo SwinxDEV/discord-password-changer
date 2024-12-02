@@ -1,4 +1,4 @@
-# DiscordTokenChanger
+# Discord password changer
 Proxyless, Unflagged Token password changer.
 
 # **✅ Tutorial**
